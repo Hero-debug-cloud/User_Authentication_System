@@ -1,0 +1,6 @@
+# User_Authentication_System
+
+add .env file containing variable like :
+
+- MONGO_LINK= YOUR_MONGODB_LINK
+- ACCESS_TOKEN_SECRET=19d7ac78ce3de65eaf495e444fb0de616b81ce9f9b1005ecdcab6fcd804c07fc58decf42e0051c90cd67b871267fd811e27e7175d9c1b316de3f54135310eb95
